@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tau. Behauptung, Zweifel, Verdikt</title>
-    <link>https://taumorrow.github.io/podcast/de</link>
+    <link>https://taumorrow.github.io/tau-nomic-podcast/de</link>
     <language>de</language>
     <description>Ein Gespräch in drei Stimmen über entscheidbare, selbst-referenzielle Governance: einer behauptet, eine zweifelt — und die dritte Stimme ist eine Maschine, die nur Gerechnetes spricht. Jede Behauptung ist nachrechenbar: github.com/taumorrow/tau-lang-demos — Stimmen: Piper TTS (Thorsten &amp; Kerstin CC0, PAVOQUE-Korpus CC BY-NC-SA).</description>
     <itunes:author>Taumorrow</itunes:author>
@@ -10,7 +10,7 @@
     <itunes:type>serial</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
-    <itunes:image href="https://taumorrow.github.io/podcast/de/cover.jpg"/>
+    <itunes:image href="https://taumorrow.github.io/tau-nomic-podcast/de/cover.jpg"/>
     <itunes:owner>
       <itunes:name>Taumorrow</itunes:name>
       <itunes:email>taumorrow@gmail.com</itunes:email>
@@ -21,7 +21,7 @@
       <itunes:episode>0</itunes:episode>
       <guid isPermaLink="false">tau-forschungslog-folge-00-trailer</guid>
       <pubDate>Thu, 01 Jan 2026 09:00:00 GMT</pubDate>
-      <enclosure url="https://taumorrow.github.io/podcast/de/folge-00-trailer.mp3" length="2286654" type="audio/mpeg"/>
+      <enclosure url="https://taumorrow.github.io/tau-nomic-podcast/de/folge-00-trailer.mp3" length="2286654" type="audio/mpeg"/>
       <itunes:duration>2:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <description>Beweisbar sichere Regeln: gewoehnlich ein Werbeversprechen, hier ein Rechenergebnis. Worum es geht, was belegt ist, und wo die Sternchen stehen.</description>
@@ -32,7 +32,7 @@
       <itunes:episode>1</itunes:episode>
       <guid isPermaLink="false">tau-forschungslog-folge-01-das-problem</guid>
       <pubDate>Fri, 02 Jan 2026 09:00:00 GMT</pubDate>
-      <enclosure url="https://taumorrow.github.io/podcast/de/folge-01-das-problem.mp3" length="2995513" type="audio/mpeg"/>
+      <enclosure url="https://taumorrow.github.io/tau-nomic-podcast/de/folge-01-das-problem.mp3" length="2995513" type="audio/mpeg"/>
       <itunes:duration>3:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <description>Haelt ein System seine Regel durch jede Selbst-Aenderung? Warum diese Frage fuer normale Programme beweisbar unentscheidbar ist, und warum jedes Werkzeug eine Zutat aufgibt.</description>
@@ -43,7 +43,7 @@
       <itunes:episode>2</itunes:episode>
       <guid isPermaLink="false">tau-forschungslog-folge-02-der-tausch</guid>
       <pubDate>Sat, 03 Jan 2026 09:00:00 GMT</pubDate>
-      <enclosure url="https://taumorrow.github.io/podcast/de/folge-02-der-tausch.mp3" length="4441234" type="audio/mpeg"/>
+      <enclosure url="https://taumorrow.github.io/tau-nomic-podcast/de/folge-02-der-tausch.mp3" length="4441234" type="audio/mpeg"/>
       <itunes:duration>4:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <description>Tau gibt die Turing-Superkraefte zurueck und bekommt Entscheidbarkeit. Barbier, Goedel, atomlose Algebra und der bewachte Nachfolger, in Alltagssprache.</description>
@@ -54,7 +54,7 @@
       <itunes:episode>3</itunes:episode>
       <guid isPermaLink="false">tau-forschungslog-folge-03-lebende-verfassung</guid>
       <pubDate>Sun, 04 Jan 2026 09:00:00 GMT</pubDate>
-      <enclosure url="https://taumorrow.github.io/podcast/de/folge-03-lebende-verfassung.mp3" length="4343849" type="audio/mpeg"/>
+      <enclosure url="https://taumorrow.github.io/tau-nomic-podcast/de/folge-03-lebende-verfassung.mp3" length="4343849" type="audio/mpeg"/>
       <itunes:duration>4:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <description>Ein Regelwerk, das seine eigene Aenderung regiert: Kern klebt, Koerper atmet. Warum tausend Stimmen algebraisch eine sind, und wo Suber wartet.</description>
@@ -65,7 +65,7 @@
       <itunes:episode>4</itunes:episode>
       <guid isPermaLink="false">tau-forschungslog-folge-04-reduktions-landkarte</guid>
       <pubDate>Mon, 05 Jan 2026 09:00:00 GMT</pubDate>
-      <enclosure url="https://taumorrow.github.io/podcast/de/folge-04-reduktions-landkarte.mp3" length="3388395" type="audio/mpeg"/>
+      <enclosure url="https://taumorrow.github.io/tau-nomic-podcast/de/folge-04-reduktions-landkarte.mp3" length="3388395" type="audio/mpeg"/>
       <itunes:duration>3:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <description>Die ehrlichste Folge: Wann reicht SAT, und wann braucht es Tau wirklich? Zwei Reduktionen, drei Zutaten, und die knappe heisst Pfad-Abhaengigkeit.</description>
@@ -76,7 +76,7 @@
       <itunes:episode>5</itunes:episode>
       <guid isPermaLink="false">tau-forschungslog-folge-05-die-ratsche</guid>
       <pubDate>Tue, 06 Jan 2026 09:00:00 GMT</pubDate>
-      <enclosure url="https://taumorrow.github.io/podcast/de/folge-05-die-ratsche.mp3" length="3490795" type="audio/mpeg"/>
+      <enclosure url="https://taumorrow.github.io/tau-nomic-podcast/de/folge-05-die-ratsche.mp3" length="3490795" type="audio/mpeg"/>
       <itunes:duration>3:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <description>Siegeln oder Ersetzen, die Reihenfolge entscheidet: dieselben Zutaten, zwei Verdikte. Pfad-Abhaengigkeit am Binary, und warum kein Schnappschuss sie sieht.</description>
@@ -87,7 +87,7 @@
       <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">tau-forschungslog-folge-06-protokoll-gate</guid>
       <pubDate>Wed, 07 Jan 2026 09:00:00 GMT</pubDate>
-      <enclosure url="https://taumorrow.github.io/podcast/de/folge-06-protokoll-gate.mp3" length="3027278" type="audio/mpeg"/>
+      <enclosure url="https://taumorrow.github.io/tau-nomic-podcast/de/folge-06-protokoll-gate.mp3" length="3027278" type="audio/mpeg"/>
       <itunes:duration>3:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <description>Der Angreifer uebernimmt jede Abstimmung und verliert trotzdem: eine gesiegelte Obergrenze als leere Schnittmenge statt als Versprechen.</description>
@@ -98,7 +98,7 @@
       <itunes:episode>7</itunes:episode>
       <guid isPermaLink="false">tau-forschungslog-folge-07-vereinssatzung</guid>
       <pubDate>Thu, 08 Jan 2026 09:00:00 GMT</pubDate>
-      <enclosure url="https://taumorrow.github.io/podcast/de/folge-07-vereinssatzung.mp3" length="3856509" type="audio/mpeg"/>
+      <enclosure url="https://taumorrow.github.io/tau-nomic-podcast/de/folge-07-vereinssatzung.mp3" length="3856509" type="audio/mpeg"/>
       <itunes:duration>4:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <description>Neun Menschen, ein Vorstand, ein Grundrecht: ein Verein regiert seine Satzung. Stufenbau mit Teleskop-Effekt, Gewaltenteilung als Einzeiler, vier harte Grenzen.</description>
@@ -109,7 +109,7 @@
       <itunes:episode>8</itunes:episode>
       <guid isPermaLink="false">tau-forschungslog-folge-08-beschluss-ohne-abstimmung</guid>
       <pubDate>Fri, 09 Jan 2026 09:00:00 GMT</pubDate>
-      <enclosure url="https://taumorrow.github.io/podcast/de/folge-08-beschluss-ohne-abstimmung.mp3" length="3204493" type="audio/mpeg"/>
+      <enclosure url="https://taumorrow.github.io/tau-nomic-podcast/de/folge-08-beschluss-ohne-abstimmung.mp3" length="3204493" type="audio/mpeg"/>
       <itunes:duration>3:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <description>Beschliessen ohne Koepfe zu zaehlen: Bedingungen statt Stimmen, Rangordnung statt Deadlock, und am Ende die kleinstmoegliche Wahl.</description>
@@ -120,7 +120,7 @@
       <itunes:episode>9</itunes:episode>
       <guid isPermaLink="false">tau-forschungslog-folge-09-ki-agenten</guid>
       <pubDate>Sat, 10 Jan 2026 09:00:00 GMT</pubDate>
-      <enclosure url="https://taumorrow.github.io/podcast/de/folge-09-ki-agenten.mp3" length="4755957" type="audio/mpeg"/>
+      <enclosure url="https://taumorrow.github.io/tau-nomic-podcast/de/folge-09-ki-agenten.mp3" length="4755957" type="audio/mpeg"/>
       <itunes:duration>4:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <description>Regeln, die ein Agent nicht wegargumentiert: fuenf von acht gegen null von acht. Und die ehrlichste Passage: wo Tau fast nichts beitraegt.</description>
@@ -131,7 +131,7 @@
       <itunes:episode>10</itunes:episode>
       <guid isPermaLink="false">tau-forschungslog-folge-10-die-grenzen</guid>
       <pubDate>Sun, 11 Jan 2026 09:00:00 GMT</pubDate>
-      <enclosure url="https://taumorrow.github.io/podcast/de/folge-10-die-grenzen.mp3" length="3800920" type="audio/mpeg"/>
+      <enclosure url="https://taumorrow.github.io/tau-nomic-podcast/de/folge-10-die-grenzen.mp3" length="3800920" type="audio/mpeg"/>
       <itunes:duration>3:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <description>Was bleibt fuer immer: Formalisierung und der aeusserste Anker. Was Arbeit ist: Reife, Skala, externe Pruefung. Und die aufgeklaerte Anomalie.</description>
@@ -142,7 +142,7 @@
       <itunes:episode>11</itunes:episode>
       <guid isPermaLink="false">tau-forschungslog-folge-11-ingenieurs-wahrheiten</guid>
       <pubDate>Mon, 12 Jan 2026 09:00:00 GMT</pubDate>
-      <enclosure url="https://taumorrow.github.io/podcast/de/folge-11-ingenieurs-wahrheiten.mp3" length="3502497" type="audio/mpeg"/>
+      <enclosure url="https://taumorrow.github.io/tau-nomic-podcast/de/folge-11-ingenieurs-wahrheiten.mp3" length="3502497" type="audio/mpeg"/>
       <itunes:duration>3:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <description>Drei Beichten, eine Weiche und der Meta-Fehler: Bauregeln fuer alle, die es selbst versuchen. Nicht raten, messen.</description>
@@ -153,7 +153,7 @@
       <itunes:episode>12</itunes:episode>
       <guid isPermaLink="false">tau-forschungslog-folge-12-ist-es-eine-revolution</guid>
       <pubDate>Tue, 13 Jan 2026 09:00:00 GMT</pubDate>
-      <enclosure url="https://taumorrow.github.io/podcast/de/folge-12-ist-es-eine-revolution.mp3" length="3796323" type="audio/mpeg"/>
+      <enclosure url="https://taumorrow.github.io/tau-nomic-podcast/de/folge-12-ist-es-eine-revolution.mp3" length="3796323" type="audio/mpeg"/>
       <itunes:duration>3:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <description>Faehigkeit belegt, Revolution nicht: die Netto-Rechnung, die Fuenf-Punkte-Liste, und warum ein Skelett mehr ist als nichts.</description>
@@ -164,7 +164,7 @@
       <itunes:episode>13</itunes:episode>
       <guid isPermaLink="false">tau-forschungslog-folge-13-wer-aendert-die-aenderungsregel</guid>
       <pubDate>Wed, 14 Jan 2026 09:00:00 GMT</pubDate>
-      <enclosure url="https://taumorrow.github.io/podcast/de/folge-13-wer-aendert-die-aenderungsregel.mp3" length="5932512" type="audio/mpeg"/>
+      <enclosure url="https://taumorrow.github.io/tau-nomic-podcast/de/folge-13-wer-aendert-die-aenderungsregel.mp3" length="5932512" type="audio/mpeg"/>
       <itunes:duration>6:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <description>Die Bonusfolge: das Grundgesetz-Skelett, ein Staatsstreich in zwei Zuegen, die Selbst-Bindung, und das bewiesene Trilemma dahinter.</description>

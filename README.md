@@ -14,4 +14,4 @@ RyanSpeech (CC BY-NC-SA), Lessac (Blizzard 2013), Alan (Mycroft).
 ## Hosting
 
 Served via GitHub Pages (Settings → Pages → deploy from branch `main`, root).
-Feed URLs: `https://taumorrow.github.io/podcast/de/feed.xml` · `…/en/feed.xml`
+Feed URLs: `https://taumorrow.github.io/tau-nomic-podcast/de/feed.xml` · `…/en/feed.xml`
