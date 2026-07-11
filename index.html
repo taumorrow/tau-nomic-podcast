@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tau. Claim, Doubt, Verdict — Podcast</title>
+<style>
+  :root { color-scheme: dark; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: #0a0f14; color: #ece7db;
+    font-family: "DejaVu Sans", system-ui, sans-serif;
+    min-height: 100vh; display: flex; align-items: center; justify-content: center;
+    padding: 2rem;
+  }
+  .wrap { max-width: 640px; text-align: center; }
+  .tau { font-family: "DejaVu Serif", Georgia, serif; font-size: 8rem; line-height: 1; }
+  .dots { margin: 1.2rem 0 .6rem; letter-spacing: .6rem; font-size: 1.4rem; }
+  .dots .c { color: #ece7db; } .dots .d { color: #667280; } .dots .v { color: #3fb950; }
+  h1 { font-size: 1.5rem; letter-spacing: .35em; margin-bottom: .4rem; }
+  .tag { color: #93a1b0; letter-spacing: .2em; font-size: .85rem; margin-bottom: 2.2rem; }
+  .feeds { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin-bottom: 2.2rem; }
+  .feeds a {
+    display: block; padding: .9rem 1.6rem; border: 1px solid #26313d; border-radius: 10px;
+    color: #ece7db; text-decoration: none; background: #10161d; min-width: 220px;
+  }
+  .feeds a:hover { border-color: #3fb950; }
+  .feeds .lang { font-weight: bold; letter-spacing: .1em; }
+  .feeds .sub { color: #93a1b0; font-size: .8rem; margin-top: .3rem; }
+  .note { color: #93a1b0; font-size: .8rem; line-height: 1.7; }
+  .note a { color: #3fb950; text-decoration: none; }
+  .verdicts { margin-top: 2.5rem; color: #131b24; font-family: "DejaVu Sans Mono", monospace; font-size: .75rem; letter-spacing: .3em; user-select: none; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="tau">&tau;</div>
+    <div class="dots"><span class="c">&#9679;</span> <span class="d">&#9679;</span> <span class="v">&#9679;</span></div>
+    <h1>TAU.</h1>
+    <div class="tag">BEHAUPTUNG &middot; ZWEIFEL &middot; VERDIKT &nbsp;/&nbsp; CLAIM &middot; DOUBT &middot; VERDICT</div>
+    <div class="feeds">
+      <a href="de/feed.xml">
+        <div class="lang">Deutsch</div>
+        <div class="sub">14 Folgen &middot; RSS-Feed</div>
+      </a>
+      <a href="en/feed.xml">
+        <div class="lang">English</div>
+        <div class="sub">14 episodes &middot; RSS feed</div>
+      </a>
+    </div>
+    <p class="note">
+      A conversation in three voices about decidable, self-referential governance.
+      The third voice is a machine &mdash; it only ever speaks computed verdicts.<br>
+      Every claim is runnable: <a href="https://github.com/taumorrow/tau-lang-demos">tau-lang-demos</a> &middot; 11/11 checks pass.<br>
+      Paste a feed URL into any podcast app. Free, no ads, ever.<br>
+      Voices: Piper TTS &mdash; Thorsten &amp; Kerstin (CC0), PAVOQUE (CC BY-NC-SA), RyanSpeech (CC BY-NC-SA), Lessac (Blizzard 2013), Alan (Mycroft).
+    </p>
+    <div class="verdicts">T F T T T T F T T F T T F</div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tau. Claim, Doubt, Verdict</title>
+    <link>https://taumorrow.github.io/podcast/en</link>
+    <language>en-us</language>
+    <description>A conversation in three voices about decidable, self-referential governance: one claims, one doubts — and the third voice is a machine that only ever speaks computed verdicts. Every claim is runnable: github.com/taumorrow/tau-lang-demos — Voices: Piper TTS (RyanSpeech CC BY-NC-SA, Lessac Blizzard 2013, Alan/Mycroft).</description>
+    <itunes:author>Taumorrow</itunes:author>
+    <itunes:summary>A conversation in three voices about decidable, self-referential governance: one claims, one doubts — and the third voice is a machine that only ever speaks computed verdicts. Every claim is runnable: github.com/taumorrow/tau-lang-demos — Voices: Piper TTS (RyanSpeech CC BY-NC-SA, Lessac Blizzard 2013, Alan/Mycroft).</itunes:summary>
+    <itunes:type>serial</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://taumorrow.github.io/podcast/en/cover.jpg"/>
+    <itunes:owner>
+      <itunes:name>Taumorrow</itunes:name>
+      <itunes:email>taumorrow@gmail.com</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>The impossible, honestly examined</title>
+      <itunes:title>The impossible, honestly examined</itunes:title>
+      <itunes:episode>0</itunes:episode>
+      <guid isPermaLink="false">tau-research-log-episode-00-trailer</guid>
+      <pubDate>Thu, 01 Jan 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://taumorrow.github.io/podcast/en/episode-00-trailer.mp3" length="2194703" type="audio/mpeg"/>
+      <itunes:duration>2:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description>Provably safe rules: usually a marketing promise, here a computation. What the claim is, what is verified, and where the asterisks live.</description>
+    </item>
+    <item>
+      <title>Episode 1: The one question nobody can decide</title>
+      <itunes:title>Episode 1: The one question nobody can decide</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <guid isPermaLink="false">tau-research-log-episode-01-the-problem</guid>
+      <pubDate>Fri, 02 Jan 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://taumorrow.github.io/podcast/en/episode-01-the-problem.mp3" length="2786115" type="audio/mpeg"/>
+      <itunes:duration>2:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description>Does a system keep its rule through every self-change? Why that question is provably undecidable for normal programs, and why every tool gives up one ingredient.</description>
+    </item>
+    <item>
+      <title>Episode 2: The trade</title>
+      <itunes:title>Episode 2: The trade</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <guid isPermaLink="false">tau-research-log-episode-02-the-trade</guid>
+      <pubDate>Sat, 03 Jan 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://taumorrow.github.io/podcast/en/episode-02-the-trade.mp3" length="4178755" type="audio/mpeg"/>
+      <itunes:duration>4:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description>Tau hands back the Turing superpowers and gets decidability. The barber, Goedel, atomless algebra and the guarded successor, in plain language.</description>
+    </item>
+    <item>
+      <title>Episode 3: The living constitution</title>
+      <itunes:title>Episode 3: The living constitution</itunes:title>
+      <itunes:episode>3</itunes:episode>
+      <guid isPermaLink="false">tau-research-log-episode-03-the-living-constitution</guid>
+      <pubDate>Sun, 04 Jan 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://taumorrow.github.io/podcast/en/episode-03-the-living-constitution.mp3" length="4155768" type="audio/mpeg"/>
+      <itunes:duration>4:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description>A body of rules whose only job is to govern its own change: the core sticks, the body breathes. Why a thousand voices are algebraically one, and where Suber waits.</description>
+    </item>
+    <item>
+      <title>Episode 4: When you actually need Tau</title>
+      <itunes:title>Episode 4: When you actually need Tau</itunes:title>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">tau-research-log-episode-04-when-you-actually-need-tau</guid>
+      <pubDate>Mon, 05 Jan 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://taumorrow.github.io/podcast/en/episode-04-when-you-actually-need-tau.mp3" length="3219957" type="audio/mpeg"/>
+      <itunes:duration>3:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description>The most honest episode: when does SAT suffice, and when is Tau truly necessary? Two reductions, three ingredients, and the scarce one is path dependence.</description>
+    </item>
+    <item>
+      <title>Episode 5: The ratchet</title>
+      <itunes:title>Episode 5: The ratchet</itunes:title>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">tau-research-log-episode-05-the-ratchet</guid>
+      <pubDate>Tue, 06 Jan 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://taumorrow.github.io/podcast/en/episode-05-the-ratchet.mp3" length="3218703" type="audio/mpeg"/>
+      <itunes:duration>3:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description>Seal or replace, the order decides: same ingredients, two verdicts. Path dependence at the binary, and why no snapshot can see it.</description>
+    </item>
+    <item>
+      <title>Episode 6: The worked example</title>
+      <itunes:title>Episode 6: The worked example</itunes:title>
+      <itunes:episode>6</itunes:episode>
+      <guid isPermaLink="false">tau-research-log-episode-06-the-worked-example</guid>
+      <pubDate>Wed, 07 Jan 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://taumorrow.github.io/podcast/en/episode-06-the-worked-example.mp3" length="2882246" type="audio/mpeg"/>
+      <itunes:duration>3:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description>The attacker takes over every vote and still loses: a sealed cap as an empty intersection instead of a promise.</description>
+    </item>
+    <item>
+      <title>Episode 7: A constitution you can touch</title>
+      <itunes:title>Episode 7: A constitution you can touch</itunes:title>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">tau-research-log-episode-07-a-constitution-you-can-touch</guid>
+      <pubDate>Thu, 08 Jan 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://taumorrow.github.io/podcast/en/episode-07-a-constitution-you-can-touch.mp3" length="3787546" type="audio/mpeg"/>
+      <itunes:duration>3:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description>Nine people, one board, one basic right: a small nonprofit governs its own charter. A hierarchy of norms with a telescope effect, separation of powers as a one-liner, four hard limits.</description>
+    </item>
+    <item>
+      <title>Episode 8: Decision without voting</title>
+      <itunes:title>Episode 8: Decision without voting</itunes:title>
+      <itunes:episode>8</itunes:episode>
+      <guid isPermaLink="false">tau-research-log-episode-08-decision-without-voting</guid>
+      <pubDate>Fri, 09 Jan 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://taumorrow.github.io/podcast/en/episode-08-decision-without-voting.mp3" length="3077433" type="audio/mpeg"/>
+      <itunes:duration>3:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description>Deciding without counting heads: conditions instead of votes, a ranking instead of deadlock, and in the end the smallest possible vote.</description>
+    </item>
+    <item>
+      <title>Episode 9: Securing AI agents, and where Tau does not help</title>
+      <itunes:title>Episode 9: Securing AI agents, and where Tau does not help</itunes:title>
+      <itunes:episode>9</itunes:episode>
+      <guid isPermaLink="false">tau-research-log-episode-09-ai-agents</guid>
+      <pubDate>Sat, 10 Jan 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://taumorrow.github.io/podcast/en/episode-09-ai-agents.mp3" length="4502256" type="audio/mpeg"/>
+      <itunes:duration>4:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description>Rules an agent cannot argue away: five out of eight versus zero out of eight. And the most honest passage: where Tau contributes almost nothing.</description>
+    </item>
+    <item>
+      <title>Episode 10: What Tau does not solve</title>
+      <itunes:title>Episode 10: What Tau does not solve</itunes:title>
+      <itunes:episode>10</itunes:episode>
+      <guid isPermaLink="false">tau-research-log-episode-10-what-tau-does-not-solve</guid>
+      <pubDate>Sun, 11 Jan 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://taumorrow.github.io/podcast/en/episode-10-what-tau-does-not-solve.mp3" length="3609495" type="audio/mpeg"/>
+      <itunes:duration>3:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description>What stays forever: formalization and the outermost anchor. What is work: maturity, scale, external review. And the anomaly, resolved.</description>
+    </item>
+    <item>
+      <title>Episode 11: The engineering truths</title>
+      <itunes:title>Episode 11: The engineering truths</itunes:title>
+      <itunes:episode>11</itunes:episode>
+      <guid isPermaLink="false">tau-research-log-episode-11-the-engineering-truths</guid>
+      <pubDate>Mon, 12 Jan 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://taumorrow.github.io/podcast/en/episode-11-the-engineering-truths.mp3" length="3287666" type="audio/mpeg"/>
+      <itunes:duration>3:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description>Three confessions, one fork in the road, and the meta mistake: build rules for everyone who tries this themselves. Do not guess, measure.</description>
+    </item>
+    <item>
+      <title>Episode 12: Is it a revolution?</title>
+      <itunes:title>Episode 12: Is it a revolution?</itunes:title>
+      <itunes:episode>12</itunes:episode>
+      <guid isPermaLink="false">tau-research-log-episode-12-is-it-a-revolution</guid>
+      <pubDate>Tue, 13 Jan 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://taumorrow.github.io/podcast/en/episode-12-is-it-a-revolution.mp3" length="3507513" type="audio/mpeg"/>
+      <itunes:duration>3:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description>Capability proven, revolution not: the net balance, the five-point list, and why a skeleton is more than nothing.</description>
+    </item>
+    <item>
+      <title>Bonus: Who amends the amendment rule?</title>
+      <itunes:title>Bonus: Who amends the amendment rule?</itunes:title>
+      <itunes:episode>13</itunes:episode>
+      <guid isPermaLink="false">tau-research-log-episode-13-who-amends-the-amendment-rule</guid>
+      <pubDate>Wed, 14 Jan 2026 09:00:00 GMT</pubDate>
+      <enclosure url="https://taumorrow.github.io/podcast/en/episode-13-who-amends-the-amendment-rule.mp3" length="5464398" type="audio/mpeg"/>
+      <itunes:duration>5:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <description>The bonus episode: the Basic Law skeleton, a coup in two moves, self-binding, and the proven trilemma behind it all.</description>
+    </item>
+  </channel>
+</rss>
